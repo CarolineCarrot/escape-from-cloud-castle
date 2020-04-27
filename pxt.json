@@ -1,7 +1,9 @@
 {
     "name": "Escape from Cloud Castle",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Escape from Cloud Castle": "github:carolinecarrot/escape-from-cloud-castle#master",
+        "animation": "*"
     },
     "description": "",
     "files": [
